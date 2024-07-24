@@ -12,7 +12,7 @@
 1. Environment Variables
 
    -> change the DB_URL in docker-compose.yml
-   (i) DB_URL should be in this format: postgresql://<username>:<password>@<host>:<port>/<database>
+   (i) DB_URL should be in this format: "postgresql://<username>:<password>@<host>:<port>/<database>"
 
 2. Build and Start Containers
 
