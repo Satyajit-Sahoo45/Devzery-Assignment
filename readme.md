@@ -28,6 +28,3 @@
 
    Open your web browser and navigate to http://localhost:5000 to access the Flask application.]
 
-
-![Screenshot 2024-07-24 121755](https://github.com/user-attachments/assets/ce6f333c-5f0f-424b-9b97-e129ca4b5f10)
-
